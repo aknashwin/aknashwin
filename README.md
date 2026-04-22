@@ -36,11 +36,11 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🦾 [ROS2 Robot Arm Simulation] | Pick & place simulation with Gazebo | ROS2, Python, Gazebo |
-| 🔍 [Industrial Defect Detection] | CV pipeline for manufacturing inspection | Python, OpenCV, PyTorch |
-| 🤖 [RAG Knowledge Assistant] | Enterprise document Q&A system | Python, LangChain, FAISS |
-| ⚡ [Automation Workflow API] | REST API simulating industrial processes | FastAPI, Python |
-| 🧠 [LLM Robot Task Planner] | Natural language → robot actions | ROS2, LangChain, Python |
+| 🔍 [Vision-Based Object Detection](https://github.com/aknashwin/vision-detection-localization) | YOLOv8 pipeline for real-time object detection | Python, YOLOv8, OpenCV |
+| 😊 [Real-Time Emotion Detection](https://github.com/aknashwin/emotion-detection) | Facial emotion classification with live camera | Python, DeepFace, TensorFlow |
+| ⚡ [Automation Workflow API](https://github.com/aknashwin/automation-workflow-api) | REST API simulating industrial automation | Python, FastAPI |
+| 🔎 [Industrial Defect Detection](https://github.com/aknashwin/industrial-defect-detection) | CV inspection pipeline with defect reports | Python, YOLOv8, OpenCV |
+| 🤖 [LLM Robot Task Planner](https://github.com/aknashwin/llm-robot-task-planner) | Natural language → structured robot actions | Python, Claude API |
 
 ---
 
