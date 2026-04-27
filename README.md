@@ -50,4 +50,4 @@
 
 ---
 
-*🇩🇪 Actively building towards Robotics & AI Engineering roles in Germany*
+* Actively building towards Robotics & AI Engineering roles in Germany*
