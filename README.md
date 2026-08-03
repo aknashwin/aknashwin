@@ -1,7 +1,7 @@
 # Hi, I'm Ashwin Nair 👋
 🎓 MSc Robotics & Artificial Intelligence | BEng Mechatronics Engineering  
 🤖 Building at the intersection of Robotics, Automation & AI  
-🌍 Based in Bengaluru, India | Open to opportunities in Germany  
+🌍 Based in Bengaluru, India   
 📫 [ashwinkanair@gmail.com](mailto:ashwinkanair@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ashwin-nair-494a441a8/)
 
 ---
@@ -41,13 +41,4 @@
 | ⚡ [Automation Workflow API](https://github.com/aknashwin/automation-workflow-api) | REST API simulating industrial automation | Python, FastAPI |
 | 🔎 [Industrial Defect Detection](https://github.com/aknashwin/industrial-defect-detection) | CV inspection pipeline with defect reports | Python, YOLOv8, OpenCV |
 | 🤖 [LLM Robot Task Planner](https://github.com/aknashwin/llm-robot-task-planner) | Natural language → structured robot actions | Python, Claude API |
-
 ---
-
-## 📊 GitHub Stats
-
-![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aknashwin&show_icons=true&theme=dark&hide_border=true)
-
----
-
-* Actively building towards Robotics & AI Engineering roles in Germany*
